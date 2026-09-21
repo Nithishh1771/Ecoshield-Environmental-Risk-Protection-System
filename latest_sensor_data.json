@@ -1,0 +1,14 @@
+{
+    "source": "ESP32_EDGE_AI",
+    "latitude": 8.996939,
+    "longitude": 77.862181,
+    "mlx_temp": 40.4,
+    "dht_temp": 40.8,
+    "humidity": 76.3,
+    "mq2": 0,
+    "flame": 1,
+    "fire_probability": 8,
+    "fire": 1,
+    "mq2_digital": 0,
+    "timestamp": "2026-09-21T19:48:20.021727+00:00"
+}

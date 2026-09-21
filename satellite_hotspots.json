@@ -1,0 +1,1272 @@
+{
+    "source": "FSI_VAN_AGNI",
+    "layer": "VIIRS_TODAY",
+    "retrieved_at": "2026-09-14T17:50:53.574912",
+    "count": 158,
+    "hotspots": [
+        {
+            "id": 1,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.821879,
+            "longitude": 84.571709,
+            "coordinate_count": 12
+        },
+        {
+            "id": 2,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 24.113764,
+            "longitude": 86.861545,
+            "coordinate_count": 10
+        },
+        {
+            "id": 3,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.365367,
+            "longitude": 71.611117,
+            "coordinate_count": 7
+        },
+        {
+            "id": 4,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.631098,
+            "longitude": 77.669516,
+            "coordinate_count": 31
+        },
+        {
+            "id": 5,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.029882,
+            "longitude": 77.837161,
+            "coordinate_count": 6
+        },
+        {
+            "id": 6,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.029219,
+            "longitude": 77.838847,
+            "coordinate_count": 16
+        },
+        {
+            "id": 7,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.028604,
+            "longitude": 77.838901,
+            "coordinate_count": 15
+        },
+        {
+            "id": 8,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 26.055365,
+            "longitude": 93.640268,
+            "coordinate_count": 19
+        },
+        {
+            "id": 9,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 29.017478,
+            "longitude": 79.628904,
+            "coordinate_count": 19
+        },
+        {
+            "id": 10,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 29.016051,
+            "longitude": 79.629274,
+            "coordinate_count": 7
+        },
+        {
+            "id": 11,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 10.266218,
+            "longitude": 78.838776,
+            "coordinate_count": 7
+        },
+        {
+            "id": 12,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 17.467996,
+            "longitude": 82.636521,
+            "coordinate_count": 7
+        },
+        {
+            "id": 13,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 20.346561,
+            "longitude": 79.46198,
+            "coordinate_count": 19
+        },
+        {
+            "id": 14,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 20.347308,
+            "longitude": 79.463177,
+            "coordinate_count": 17
+        },
+        {
+            "id": 15,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 20.345732,
+            "longitude": 79.462384,
+            "coordinate_count": 15
+        },
+        {
+            "id": 16,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 22.187728,
+            "longitude": 74.38649,
+            "coordinate_count": 7
+        },
+        {
+            "id": 17,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 24.215331,
+            "longitude": 74.347027,
+            "coordinate_count": 7
+        },
+        {
+            "id": 18,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 25.64022,
+            "longitude": 78.93965,
+            "coordinate_count": 10
+        },
+        {
+            "id": 19,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 29.299532,
+            "longitude": 79.071089,
+            "coordinate_count": 8
+        },
+        {
+            "id": 20,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 29.299532,
+            "longitude": 79.072335,
+            "coordinate_count": 8
+        },
+        {
+            "id": 21,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 17.306257,
+            "longitude": 81.16184,
+            "coordinate_count": 9
+        },
+        {
+            "id": 22,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.583065,
+            "longitude": 86.727213,
+            "coordinate_count": 10
+        },
+        {
+            "id": 23,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 25.581562,
+            "longitude": 86.931005,
+            "coordinate_count": 9
+        },
+        {
+            "id": 24,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 25.58141,
+            "longitude": 86.931874,
+            "coordinate_count": 9
+        },
+        {
+            "id": 25,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 15.071791,
+            "longitude": 76.864033,
+            "coordinate_count": 12
+        },
+        {
+            "id": 26,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 16.139973,
+            "longitude": 79.367481,
+            "coordinate_count": 13
+        },
+        {
+            "id": 27,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 16.14078,
+            "longitude": 79.363448,
+            "coordinate_count": 7
+        },
+        {
+            "id": 28,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 16.14166,
+            "longitude": 79.359152,
+            "coordinate_count": 7
+        },
+        {
+            "id": 29,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 16.142535,
+            "longitude": 79.354887,
+            "coordinate_count": 7
+        },
+        {
+            "id": 30,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 16.14343,
+            "longitude": 79.350516,
+            "coordinate_count": 7
+        },
+        {
+            "id": 31,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 16.144817,
+            "longitude": 79.372014,
+            "coordinate_count": 15
+        },
+        {
+            "id": 32,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 16.145281,
+            "longitude": 79.373122,
+            "coordinate_count": 20
+        },
+        {
+            "id": 33,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 16.145613,
+            "longitude": 79.369299,
+            "coordinate_count": 7
+        },
+        {
+            "id": 34,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 16.146508,
+            "longitude": 79.364928,
+            "coordinate_count": 7
+        },
+        {
+            "id": 35,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 16.147457,
+            "longitude": 79.360879,
+            "coordinate_count": 15
+        },
+        {
+            "id": 36,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 16.147457,
+            "longitude": 79.360365,
+            "coordinate_count": 15
+        },
+        {
+            "id": 37,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 16.150613,
+            "longitude": 79.350034,
+            "coordinate_count": 10
+        },
+        {
+            "id": 38,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 16.14994,
+            "longitude": 79.350808,
+            "coordinate_count": 12
+        },
+        {
+            "id": 39,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 20.908079,
+            "longitude": 71.461702,
+            "coordinate_count": 22
+        },
+        {
+            "id": 40,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 20.908778,
+            "longitude": 71.457374,
+            "coordinate_count": 30
+        },
+        {
+            "id": 41,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 26.024011,
+            "longitude": 93.34967,
+            "coordinate_count": 29
+        },
+        {
+            "id": 42,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 13.718664,
+            "longitude": 79.910965,
+            "coordinate_count": 20
+        },
+        {
+            "id": 43,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 13.719217,
+            "longitude": 79.912347,
+            "coordinate_count": 12
+        },
+        {
+            "id": 44,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 13.719293,
+            "longitude": 79.914867,
+            "coordinate_count": 8
+        },
+        {
+            "id": 45,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 13.722191,
+            "longitude": 79.910541,
+            "coordinate_count": 7
+        },
+        {
+            "id": 46,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 13.723833,
+            "longitude": 79.913113,
+            "coordinate_count": 9
+        },
+        {
+            "id": 47,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 13.72322,
+            "longitude": 79.913924,
+            "coordinate_count": 12
+        },
+        {
+            "id": 48,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 14.087678,
+            "longitude": 79.403515,
+            "coordinate_count": 7
+        },
+        {
+            "id": 49,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 14.088243,
+            "longitude": 79.40749,
+            "coordinate_count": 7
+        },
+        {
+            "id": 50,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 14.091802,
+            "longitude": 79.407085,
+            "coordinate_count": 7
+        },
+        {
+            "id": 51,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 14.172639,
+            "longitude": 79.442044,
+            "coordinate_count": 7
+        },
+        {
+            "id": 52,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 14.175574,
+            "longitude": 79.437153,
+            "coordinate_count": 7
+        },
+        {
+            "id": 53,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 14.178483,
+            "longitude": 79.432095,
+            "coordinate_count": 7
+        },
+        {
+            "id": 54,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 14.362575,
+            "longitude": 79.149009,
+            "coordinate_count": 13
+        },
+        {
+            "id": 55,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 14.362555,
+            "longitude": 79.149475,
+            "coordinate_count": 16
+        },
+        {
+            "id": 56,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 14.363065,
+            "longitude": 79.149902,
+            "coordinate_count": 6
+        },
+        {
+            "id": 57,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 15.602806,
+            "longitude": 79.826884,
+            "coordinate_count": 6
+        },
+        {
+            "id": 58,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 21.99135,
+            "longitude": 76.760564,
+            "coordinate_count": 15
+        },
+        {
+            "id": 59,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 21.993902,
+            "longitude": 76.760248,
+            "coordinate_count": 11
+        },
+        {
+            "id": 60,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 22.066054,
+            "longitude": 70.049454,
+            "coordinate_count": 7
+        },
+        {
+            "id": 61,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 26.986389,
+            "longitude": 82.594371,
+            "coordinate_count": 25
+        },
+        {
+            "id": 62,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 27.836054,
+            "longitude": 78.191335,
+            "coordinate_count": 23
+        },
+        {
+            "id": 63,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 28.659553,
+            "longitude": 79.963653,
+            "coordinate_count": 7
+        },
+        {
+            "id": 64,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.567174,
+            "longitude": 77.162465,
+            "coordinate_count": 47
+        },
+        {
+            "id": 65,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.567483,
+            "longitude": 77.159635,
+            "coordinate_count": 59
+        },
+        {
+            "id": 66,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.990274,
+            "longitude": 76.568797,
+            "coordinate_count": 9
+        },
+        {
+            "id": 67,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.233651,
+            "longitude": 75.218299,
+            "coordinate_count": 7
+        },
+        {
+            "id": 68,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.793983,
+            "longitude": 77.339472,
+            "coordinate_count": 9
+        },
+        {
+            "id": 69,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.794304,
+            "longitude": 77.341873,
+            "coordinate_count": 9
+        },
+        {
+            "id": 70,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 27.536705,
+            "longitude": 95.398616,
+            "coordinate_count": 42
+        },
+        {
+            "id": 71,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 10.406116,
+            "longitude": 77.046685,
+            "coordinate_count": 7
+        },
+        {
+            "id": 72,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 13.715848,
+            "longitude": 79.91019,
+            "coordinate_count": 12
+        },
+        {
+            "id": 73,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 20.909834,
+            "longitude": 71.459075,
+            "coordinate_count": 14
+        },
+        {
+            "id": 74,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 22.170281,
+            "longitude": 83.475061,
+            "coordinate_count": 18
+        },
+        {
+            "id": 75,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.36563,
+            "longitude": 71.611811,
+            "coordinate_count": 7
+        },
+        {
+            "id": 76,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 26.361307,
+            "longitude": 80.5288,
+            "coordinate_count": 7
+        },
+        {
+            "id": 77,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 29.81519,
+            "longitude": 78.48169,
+            "coordinate_count": 14
+        },
+        {
+            "id": 78,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 10.264466,
+            "longitude": 78.844231,
+            "coordinate_count": 9
+        },
+        {
+            "id": 79,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 10.264549,
+            "longitude": 78.841796,
+            "coordinate_count": 9
+        },
+        {
+            "id": 80,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 22.890377,
+            "longitude": 79.908514,
+            "coordinate_count": 13
+        },
+        {
+            "id": 81,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.693884,
+            "longitude": 85.372864,
+            "coordinate_count": 21
+        },
+        {
+            "id": 82,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.822,
+            "longitude": 84.571808,
+            "coordinate_count": 11
+        },
+        {
+            "id": 83,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 27.069744,
+            "longitude": 80.216051,
+            "coordinate_count": 23
+        },
+        {
+            "id": 84,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 28.575719,
+            "longitude": 80.470252,
+            "coordinate_count": 7
+        },
+        {
+            "id": 85,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 28.686012,
+            "longitude": 80.571906,
+            "coordinate_count": 9
+        },
+        {
+            "id": 86,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 28.92847,
+            "longitude": 79.688676,
+            "coordinate_count": 10
+        },
+        {
+            "id": 87,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 28.928636,
+            "longitude": 79.690335,
+            "coordinate_count": 8
+        },
+        {
+            "id": 88,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 28.927257,
+            "longitude": 79.688795,
+            "coordinate_count": 11
+        },
+        {
+            "id": 89,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 28.926463,
+            "longitude": 79.688422,
+            "coordinate_count": 8
+        },
+        {
+            "id": 90,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 29.136716,
+            "longitude": 79.345002,
+            "coordinate_count": 9
+        },
+        {
+            "id": 91,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 29.135961,
+            "longitude": 79.343674,
+            "coordinate_count": 17
+        },
+        {
+            "id": 92,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 29.134646,
+            "longitude": 79.343634,
+            "coordinate_count": 10
+        },
+        {
+            "id": 93,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 29.135879,
+            "longitude": 79.344527,
+            "coordinate_count": 23
+        },
+        {
+            "id": 94,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.037407,
+            "longitude": 78.000574,
+            "coordinate_count": 12
+        },
+        {
+            "id": 95,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.038028,
+            "longitude": 78.000115,
+            "coordinate_count": 10
+        },
+        {
+            "id": 96,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.169125,
+            "longitude": 78.565212,
+            "coordinate_count": 17
+        },
+        {
+            "id": 97,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.16926,
+            "longitude": 78.564471,
+            "coordinate_count": 15
+        },
+        {
+            "id": 98,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.628539,
+            "longitude": 76.199012,
+            "coordinate_count": 33
+        },
+        {
+            "id": 99,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.831851,
+            "longitude": 77.143997,
+            "coordinate_count": 7
+        },
+        {
+            "id": 100,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 33.067699,
+            "longitude": 74.900235,
+            "coordinate_count": 7
+        },
+        {
+            "id": 101,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 11.976995,
+            "longitude": 79.81344,
+            "coordinate_count": 11
+        },
+        {
+            "id": 102,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 19.786069,
+            "longitude": 79.147532,
+            "coordinate_count": 13
+        },
+        {
+            "id": 103,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 22.170108,
+            "longitude": 83.475186,
+            "coordinate_count": 14
+        },
+        {
+            "id": 104,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 22.494155,
+            "longitude": 71.053872,
+            "coordinate_count": 7
+        },
+        {
+            "id": 105,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 24.197976,
+            "longitude": 80.797062,
+            "coordinate_count": 7
+        },
+        {
+            "id": 106,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 24.200666,
+            "longitude": 80.80148,
+            "coordinate_count": 7
+        },
+        {
+            "id": 107,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.706792,
+            "longitude": 77.204481,
+            "coordinate_count": 58
+        },
+        {
+            "id": 108,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.707764,
+            "longitude": 77.206238,
+            "coordinate_count": 21
+        },
+        {
+            "id": 109,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.773311,
+            "longitude": 76.966174,
+            "coordinate_count": 22
+        },
+        {
+            "id": 110,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.773519,
+            "longitude": 76.96703,
+            "coordinate_count": 25
+        },
+        {
+            "id": 111,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 17.068147,
+            "longitude": 78.377363,
+            "coordinate_count": 10
+        },
+        {
+            "id": 112,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 19.059356,
+            "longitude": 84.469601,
+            "coordinate_count": 10
+        },
+        {
+            "id": 113,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 20.761671,
+            "longitude": 80.142838,
+            "coordinate_count": 20
+        },
+        {
+            "id": 114,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 20.762737,
+            "longitude": 80.142198,
+            "coordinate_count": 15
+        },
+        {
+            "id": 115,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 20.92904,
+            "longitude": 80.13687,
+            "coordinate_count": 21
+        },
+        {
+            "id": 116,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 22.094649,
+            "longitude": 83.124447,
+            "coordinate_count": 17
+        },
+        {
+            "id": 117,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 25.672338,
+            "longitude": 79.962857,
+            "coordinate_count": 19
+        },
+        {
+            "id": 118,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 25.673302,
+            "longitude": 79.966389,
+            "coordinate_count": 27
+        },
+        {
+            "id": 119,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 25.674565,
+            "longitude": 79.961721,
+            "coordinate_count": 11
+        },
+        {
+            "id": 120,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 25.790508,
+            "longitude": 93.357024,
+            "coordinate_count": 38
+        },
+        {
+            "id": 121,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.787201,
+            "longitude": 77.665315,
+            "coordinate_count": 34
+        },
+        {
+            "id": 122,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.788511,
+            "longitude": 77.669664,
+            "coordinate_count": 45
+        },
+        {
+            "id": 123,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.790616,
+            "longitude": 77.666887,
+            "coordinate_count": 48
+        },
+        {
+            "id": 124,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.943905,
+            "longitude": 77.314792,
+            "coordinate_count": 32
+        },
+        {
+            "id": 125,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 33.118978,
+            "longitude": 75.665115,
+            "coordinate_count": 13
+        },
+        {
+            "id": 126,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.665809,
+            "longitude": 85.00203,
+            "coordinate_count": 7
+        },
+        {
+            "id": 127,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.694141,
+            "longitude": 85.373069,
+            "coordinate_count": 22
+        },
+        {
+            "id": 128,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.808208,
+            "longitude": 84.845746,
+            "coordinate_count": 31
+        },
+        {
+            "id": 129,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.823798,
+            "longitude": 84.568008,
+            "coordinate_count": 7
+        },
+        {
+            "id": 130,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.827976,
+            "longitude": 84.922462,
+            "coordinate_count": 9
+        },
+        {
+            "id": 131,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 24.114544,
+            "longitude": 86.85917,
+            "coordinate_count": 12
+        },
+        {
+            "id": 132,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.678949,
+            "longitude": 77.411509,
+            "coordinate_count": 50
+        },
+        {
+            "id": 133,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.679557,
+            "longitude": 77.416589,
+            "coordinate_count": 21
+        },
+        {
+            "id": 134,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.03277,
+            "longitude": 77.004237,
+            "coordinate_count": 11
+        },
+        {
+            "id": 135,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.42966,
+            "longitude": 76.566371,
+            "coordinate_count": 8
+        },
+        {
+            "id": 136,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.43034,
+            "longitude": 76.566674,
+            "coordinate_count": 15
+        },
+        {
+            "id": 137,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 31.431083,
+            "longitude": 76.566057,
+            "coordinate_count": 24
+        },
+        {
+            "id": 138,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 24.32867,
+            "longitude": 93.738118,
+            "coordinate_count": 7
+        },
+        {
+            "id": 139,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 29.461813,
+            "longitude": 76.865135,
+            "coordinate_count": 9
+        },
+        {
+            "id": 140,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.609849,
+            "longitude": 78.310216,
+            "coordinate_count": 7
+        },
+        {
+            "id": 141,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 30.610884,
+            "longitude": 78.314046,
+            "coordinate_count": 15
+        },
+        {
+            "id": 142,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 22.751482,
+            "longitude": 72.082283,
+            "coordinate_count": 9
+        },
+        {
+            "id": 143,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 22.751795,
+            "longitude": 72.080799,
+            "coordinate_count": 9
+        },
+        {
+            "id": 144,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.365507,
+            "longitude": 68.65855,
+            "coordinate_count": 9
+        },
+        {
+            "id": 145,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.374782,
+            "longitude": 69.889571,
+            "coordinate_count": 10
+        },
+        {
+            "id": 146,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.470296,
+            "longitude": 69.841182,
+            "coordinate_count": 7
+        },
+        {
+            "id": 147,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 21.585484,
+            "longitude": 70.199342,
+            "coordinate_count": 10
+        },
+        {
+            "id": 148,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 22.082028,
+            "longitude": 71.099351,
+            "coordinate_count": 10
+        },
+        {
+            "id": 149,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 22.082587,
+            "longitude": 71.097764,
+            "coordinate_count": 11
+        },
+        {
+            "id": 150,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 22.97923,
+            "longitude": 69.635486,
+            "coordinate_count": 9
+        },
+        {
+            "id": 151,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.135676,
+            "longitude": 71.605231,
+            "coordinate_count": 6
+        },
+        {
+            "id": 152,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.1353,
+            "longitude": 71.604687,
+            "coordinate_count": 8
+        },
+        {
+            "id": 153,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.358353,
+            "longitude": 70.622241,
+            "coordinate_count": 23
+        },
+        {
+            "id": 154,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.428191,
+            "longitude": 69.224101,
+            "coordinate_count": 7
+        },
+        {
+            "id": 155,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.451673,
+            "longitude": 70.514682,
+            "coordinate_count": 7
+        },
+        {
+            "id": 156,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.723869,
+            "longitude": 70.903453,
+            "coordinate_count": 7
+        },
+        {
+            "id": 157,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.750396,
+            "longitude": 70.593052,
+            "coordinate_count": 7
+        },
+        {
+            "id": 158,
+            "source": "FSI_VAN_AGNI",
+            "layer": "VIIRS_TODAY",
+            "latitude": 23.750976,
+            "longitude": 70.597286,
+            "coordinate_count": 7
+        }
+    ]
+}
